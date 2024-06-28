@@ -93,7 +93,7 @@ Pod::Spec.new do |spec|
 
   spec.source_files  = "LblFramework.xcframework/ios-arm64_x86_64-simulator/LblFramework.framework/Headers/*.h",
     "LblFramework.xcframework/ios-arm64/LblFramework.framework/Headers/*.h"
-  spec.vendored_framework  = "LblFramework.xcframework"
+ # spec.vendored_framework  = "LblFramework.xcframework"
 
 
 
